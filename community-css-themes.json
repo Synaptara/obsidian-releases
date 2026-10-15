@@ -6238,5 +6238,12 @@
     "repo": "draivika/bloc",
     "screenshot": "screenshot.png",
     "modes": ["light"]
+  },
+  {
+    "name": "Solarized Osaka",
+    "author": "Synaptara",
+    "repo": "Synaptara/obsidian-solarized-osaka",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]
